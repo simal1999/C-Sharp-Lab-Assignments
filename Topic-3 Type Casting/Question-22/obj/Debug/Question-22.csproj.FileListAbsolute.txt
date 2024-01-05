@@ -1,0 +1,7 @@
+C:\C#.net\Lab Book Assignments\Topic-3 Type Casting\Question-22\bin\Debug\Question-22.exe.config
+C:\C#.net\Lab Book Assignments\Topic-3 Type Casting\Question-22\bin\Debug\Question-22.exe
+C:\C#.net\Lab Book Assignments\Topic-3 Type Casting\Question-22\bin\Debug\Question-22.pdb
+C:\C#.net\Lab Book Assignments\Topic-3 Type Casting\Question-22\obj\Debug\Question-22.csproj.AssemblyReference.cache
+C:\C#.net\Lab Book Assignments\Topic-3 Type Casting\Question-22\obj\Debug\Question-22.csproj.CoreCompileInputs.cache
+C:\C#.net\Lab Book Assignments\Topic-3 Type Casting\Question-22\obj\Debug\Question-22.exe
+C:\C#.net\Lab Book Assignments\Topic-3 Type Casting\Question-22\obj\Debug\Question-22.pdb
