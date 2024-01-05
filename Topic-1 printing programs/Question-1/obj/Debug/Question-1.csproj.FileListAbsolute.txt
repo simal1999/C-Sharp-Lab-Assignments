@@ -1,0 +1,7 @@
+C:\C#.net\Test Your Skills Questions\Question-1\bin\Debug\Question-1.exe.config
+C:\C#.net\Test Your Skills Questions\Question-1\bin\Debug\Question-1.exe
+C:\C#.net\Test Your Skills Questions\Question-1\bin\Debug\Question-1.pdb
+C:\C#.net\Test Your Skills Questions\Question-1\obj\Debug\Question-1.csproj.AssemblyReference.cache
+C:\C#.net\Test Your Skills Questions\Question-1\obj\Debug\Question-1.csproj.CoreCompileInputs.cache
+C:\C#.net\Test Your Skills Questions\Question-1\obj\Debug\Question-1.exe
+C:\C#.net\Test Your Skills Questions\Question-1\obj\Debug\Question-1.pdb
