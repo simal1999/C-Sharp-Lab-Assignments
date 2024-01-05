@@ -1,0 +1,7 @@
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Question-13\bin\Debug\Question-13.exe.config
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Question-13\bin\Debug\Question-13.exe
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Question-13\bin\Debug\Question-13.pdb
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Question-13\obj\Debug\Question-13.csproj.AssemblyReference.cache
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Question-13\obj\Debug\Question-13.csproj.CoreCompileInputs.cache
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Question-13\obj\Debug\Question-13.exe
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Question-13\obj\Debug\Question-13.pdb

@@ -1,0 +1,7 @@
+C:\C#.net\Lab Book Assignments\Question-11\obj\Debug\Question-11.csproj.AssemblyReference.cache
+C:\C#.net\Lab Book Assignments\Question-11\obj\Debug\Question-11.csproj.CoreCompileInputs.cache
+C:\C#.net\Lab Book Assignments\Question-11\bin\Debug\Question-11.exe.config
+C:\C#.net\Lab Book Assignments\Question-11\bin\Debug\Question-11.exe
+C:\C#.net\Lab Book Assignments\Question-11\bin\Debug\Question-11.pdb
+C:\C#.net\Lab Book Assignments\Question-11\obj\Debug\Question-11.exe
+C:\C#.net\Lab Book Assignments\Question-11\obj\Debug\Question-11.pdb

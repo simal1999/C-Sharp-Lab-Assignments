@@ -1,0 +1,7 @@
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Queston-16\bin\Debug\Queston-16.exe.config
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Queston-16\bin\Debug\Queston-16.exe
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Queston-16\bin\Debug\Queston-16.pdb
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Queston-16\obj\Debug\Queston-16.csproj.AssemblyReference.cache
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Queston-16\obj\Debug\Queston-16.csproj.CoreCompileInputs.cache
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Queston-16\obj\Debug\Queston-16.exe
+C:\C#.net\Lab Book Assignments\Topic-2 Data types\Queston-16\obj\Debug\Queston-16.pdb
