@@ -1,0 +1,7 @@
+C:\C#.net\Lab Book Assignments\Topic-4 Control Statements\If conditions\simple if\Question-28\bin\Debug\Question-28.exe.config
+C:\C#.net\Lab Book Assignments\Topic-4 Control Statements\If conditions\simple if\Question-28\bin\Debug\Question-28.exe
+C:\C#.net\Lab Book Assignments\Topic-4 Control Statements\If conditions\simple if\Question-28\bin\Debug\Question-28.pdb
+C:\C#.net\Lab Book Assignments\Topic-4 Control Statements\If conditions\simple if\Question-28\obj\Debug\Question-28.csproj.AssemblyReference.cache
+C:\C#.net\Lab Book Assignments\Topic-4 Control Statements\If conditions\simple if\Question-28\obj\Debug\Question-28.csproj.CoreCompileInputs.cache
+C:\C#.net\Lab Book Assignments\Topic-4 Control Statements\If conditions\simple if\Question-28\obj\Debug\Question-28.exe
+C:\C#.net\Lab Book Assignments\Topic-4 Control Statements\If conditions\simple if\Question-28\obj\Debug\Question-28.pdb
